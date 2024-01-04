@@ -18,7 +18,10 @@ export default function Home({ allPostsData }: HomeProps) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>
+        Gopal is BoBoiBoy's best friend and is always supportive of his friends. Gopal loves food especially Tok Aba's special hot chocolate.
+When Gopal first received his super gadget, he didn't know what his superpower was. After a while he discovered that he can change any objects into food
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
